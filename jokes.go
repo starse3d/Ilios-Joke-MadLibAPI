@@ -32,8 +32,5 @@ func GetRandomJoke() string {
 		"Why did the belt get arrested? It held up a pair of pants.",
 	}
 
-	joke = jokes[rand.Intn(len(jokes))]
-	
-	return joke
-
+	return jokes[rand.Intn(len(jokes))]
 }
