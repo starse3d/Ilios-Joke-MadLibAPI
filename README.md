@@ -22,4 +22,4 @@ and type the command to initiate:
 `go run main.go jokes.go madLibs.go`
 
 # AUTHOR
-These API's were witten in Golang by Tyler Thurston
+This repository was created by Tyler Thurston
