@@ -19,7 +19,7 @@ navigate to the project directory:
 
 and type the command to initiate:
 
-'go run main.go jokes.go madLibs.go'
+`go run main.go jokes.go madLibs.go`
 
 # AUTHOR
 These API's were witten in Golang by Tyler Thurston
