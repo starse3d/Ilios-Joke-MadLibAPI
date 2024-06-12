@@ -1,7 +1,7 @@
 # Ilios Joke & Mad Lib API's
 
 # OVERVIEW
-This project was created as a completion activity for an internship position at Ilios LLC
+This project was created as a completion activity for an internship position at Ilios LLC.
 The joke API will run a simple service that prints a random joke from an array of strings.
 The madLib API will run a simple service that returns a mad lib string from several structs of random names, adjectives, and other various categories.
 
