@@ -9,8 +9,8 @@ import (
 func main() {
 	http.HandleFunc("/joke", JokeHandler)
 	http.HandleFunc("/madLib", MadLibHandler)
-	fmt.Println("Listening on localhost:8080")
-	err := http.ListenAndServe("localhost:8080", nil)
+	fmt.Println("Listening on :8080")
+	err := http.ListenAndServe(":8080", nil)
 	if err != nil {
 		log.Fatal("ListenAndServe", err)
 	}
